@@ -5,3 +5,4 @@ public class Increment {
         System.out.println(a);
     }
 }
+// #decrement use a--
